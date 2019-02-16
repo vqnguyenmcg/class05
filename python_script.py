@@ -16,4 +16,10 @@ print("you enter", filename)
 import pandas as pd
 data = pd.read_csv(filename, sep='\s+|,', header=None)
 print(data.head())
+import numpy as np
+print(np.mean(data))
+print(np.std(data))
+
+
+
 
