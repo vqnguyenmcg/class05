@@ -5,13 +5,13 @@ Class 05: Van Quang Nguyen
 2. Use argparse to detect filename.
 3. If file exists, do the following:
 
-	3.1 Read data as df.
+	3.1. Read data as df.
 
-	3.2 Display some first rows of df.
+	3.2. Display some first rows of df.
 
-	3.3 Display the statistical summary of df.
+	3.3. Display the statistical summary of df.
 
-	3.4 One-feature visualization:
+	3.4. One-feature visualization:
 
 		3.4.1. Extract columns' names as cols.
 
